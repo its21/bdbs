@@ -7,6 +7,7 @@
 - err_j, err_k: photometric errors for the Jmag and Ksmag
 
 -----------------------------
-Note: to find the matches, I recommend sep2d_arcsec < 1''
+Note: to find the matches, I recommend sep2d_arcsec < 1''. \\
+
 In the crowded fields notice that sep2d_arcsec can be of the order of a degree or several degrees
 
