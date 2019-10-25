@@ -1,4 +1,4 @@
-# 1 closest neighbour matches between the bdbs and VVV survey 
+# 1 closest neighbour matches between the BDBS and VVV surveys 
 ra, dec: each individual file contains the (ra, dec) of all the bdbs sources in the tile
 ra_vvv, dec_vvv: are the coordinates of the closest VVV match
 sep2d_arcsec: is the angular separation in arcseconds
